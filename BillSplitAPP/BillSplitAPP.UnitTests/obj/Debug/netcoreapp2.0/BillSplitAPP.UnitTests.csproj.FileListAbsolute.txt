@@ -1,0 +1,16 @@
+/Users/senwang/Projects/BillSplitAPP/BillSplitAPP.UnitTests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/senwang/Projects/BillSplitAPP/BillSplitAPP.UnitTests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/senwang/Projects/BillSplitAPP/BillSplitAPP.UnitTests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/senwang/Projects/BillSplitAPP/BillSplitAPP.UnitTests/bin/Debug/netcoreapp2.0/BillSplitAPP.UnitTests.deps.json
+/Users/senwang/Projects/BillSplitAPP/BillSplitAPP.UnitTests/bin/Debug/netcoreapp2.0/BillSplitAPP.UnitTests.runtimeconfig.json
+/Users/senwang/Projects/BillSplitAPP/BillSplitAPP.UnitTests/bin/Debug/netcoreapp2.0/BillSplitAPP.UnitTests.runtimeconfig.dev.json
+/Users/senwang/Projects/BillSplitAPP/BillSplitAPP.UnitTests/bin/Debug/netcoreapp2.0/BillSplitAPP.UnitTests.dll
+/Users/senwang/Projects/BillSplitAPP/BillSplitAPP.UnitTests/bin/Debug/netcoreapp2.0/BillSplitAPP.UnitTests.pdb
+/Users/senwang/Projects/BillSplitAPP/BillSplitAPP.UnitTests/bin/Debug/netcoreapp2.0/BillSplitAPP.dll
+/Users/senwang/Projects/BillSplitAPP/BillSplitAPP.UnitTests/bin/Debug/netcoreapp2.0/BillSplitAPP.pdb
+/Users/senwang/Projects/BillSplitAPP/BillSplitAPP.UnitTests/obj/Debug/netcoreapp2.0/BillSplitAPP.UnitTests.csprojResolveAssemblyReference.cache
+/Users/senwang/Projects/BillSplitAPP/BillSplitAPP.UnitTests/obj/Debug/netcoreapp2.0/BillSplitAPP.UnitTests.csproj.CoreCompileInputs.cache
+/Users/senwang/Projects/BillSplitAPP/BillSplitAPP.UnitTests/obj/Debug/netcoreapp2.0/BillSplitAPP.UnitTests.AssemblyInfoInputs.cache
+/Users/senwang/Projects/BillSplitAPP/BillSplitAPP.UnitTests/obj/Debug/netcoreapp2.0/BillSplitAPP.UnitTests.AssemblyInfo.cs
+/Users/senwang/Projects/BillSplitAPP/BillSplitAPP.UnitTests/obj/Debug/netcoreapp2.0/BillSplitAPP.UnitTests.dll
+/Users/senwang/Projects/BillSplitAPP/BillSplitAPP.UnitTests/obj/Debug/netcoreapp2.0/BillSplitAPP.UnitTests.pdb

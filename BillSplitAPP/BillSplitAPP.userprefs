@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{D1C039D1-8425-4340-BB40-94066B103D5D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BillSplitAPP.UnitTests/UnitTest1.cs">
+    <Files>
+      <File FileName="BillSplitAPP.UnitTests/UnitTest1.cs" Line="13" Column="9" />
+      <File FileName="BillSplitAPP/Program.cs" Line="49" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BillSplitAPP PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

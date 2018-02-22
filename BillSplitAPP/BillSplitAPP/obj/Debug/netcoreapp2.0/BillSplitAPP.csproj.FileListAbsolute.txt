@@ -1,0 +1,11 @@
+/Users/senwang/Projects/BillSplitAPP/BillSplitAPP/bin/Debug/netcoreapp2.0/BillSplitAPP.deps.json
+/Users/senwang/Projects/BillSplitAPP/BillSplitAPP/bin/Debug/netcoreapp2.0/BillSplitAPP.runtimeconfig.json
+/Users/senwang/Projects/BillSplitAPP/BillSplitAPP/bin/Debug/netcoreapp2.0/BillSplitAPP.runtimeconfig.dev.json
+/Users/senwang/Projects/BillSplitAPP/BillSplitAPP/bin/Debug/netcoreapp2.0/BillSplitAPP.dll
+/Users/senwang/Projects/BillSplitAPP/BillSplitAPP/bin/Debug/netcoreapp2.0/BillSplitAPP.pdb
+/Users/senwang/Projects/BillSplitAPP/BillSplitAPP/obj/Debug/netcoreapp2.0/BillSplitAPP.csprojResolveAssemblyReference.cache
+/Users/senwang/Projects/BillSplitAPP/BillSplitAPP/obj/Debug/netcoreapp2.0/BillSplitAPP.csproj.CoreCompileInputs.cache
+/Users/senwang/Projects/BillSplitAPP/BillSplitAPP/obj/Debug/netcoreapp2.0/BillSplitAPP.AssemblyInfoInputs.cache
+/Users/senwang/Projects/BillSplitAPP/BillSplitAPP/obj/Debug/netcoreapp2.0/BillSplitAPP.AssemblyInfo.cs
+/Users/senwang/Projects/BillSplitAPP/BillSplitAPP/obj/Debug/netcoreapp2.0/BillSplitAPP.dll
+/Users/senwang/Projects/BillSplitAPP/BillSplitAPP/obj/Debug/netcoreapp2.0/BillSplitAPP.pdb
